@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\ludo_game_v2\\dulieu\\dulieubanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|solutionrelative:ludo_game_v2\\dulieu\\dulieubanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\ludo_game_v2\\dulieu\\dulieuuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|solutionrelative:ludo_game_v2\\dulieu\\dulieuuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\ludo_game_v2\\thehien\\xulychinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|solutionrelative:ludo_game_v2\\thehien\\xulychinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\ludo_game_v2\\thehien\\xulychinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|solutionrelative:ludo_game_v2\\thehien\\xulychinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\ludo_game_v2\\dulieu\\dulieutuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|solutionrelative:ludo_game_v2\\dulieu\\dulieutuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\ludo_game_v2\\thehien\\thehienquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|solutionrelative:ludo_game_v2\\thehien\\thehienquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\ludo_game_v2\\thehien\\thehienquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|solutionrelative:ludo_game_v2\\thehien\\thehienquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|c:\\users\\hoang phuc\\source\\repos\\ludo_game_v2\\ludo_game_v2\\xuly\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|solutionrelative:ludo_game_v2\\xuly\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\ludo_game_v2\\thehien\\xulychinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|solutionrelative:ludo_game_v2\\thehien\\xulychinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\ludo_game_v2\\xuly\\quanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|solutionrelative:ludo_game_v2\\xuly\\quanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\ludo_game_v2\\dulieu\\dulieuquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|solutionrelative:ludo_game_v2\\dulieu\\dulieuquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\ludo_game_v2\\thehien\\tuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|solutionrelative:ludo_game_v2\\thehien\\tuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\ludo_game_v2\\thehien\\thehienxingau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|solutionrelative:ludo_game_v2\\thehien\\thehienxingau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\ludo_game_v2\\xuly\\xingau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DFED24-1BC6-4324-B5D2-E46689B0F4CB}|Ludo_game_v2\\Ludo_game_v2.csproj|solutionrelative:ludo_game_v2\\xuly\\xingau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XuLyChinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\Thehien\\XuLyChinh.cs",
+              "RelativeDocumentMoniker": "Ludo_game_v2\\Thehien\\XuLyChinh.cs",
+              "ToolTip": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\Thehien\\XuLyChinh.cs [Design]",
+              "RelativeToolTip": "Ludo_game_v2\\Thehien\\XuLyChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:55:36.552Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XuLyChinh.cs",
+              "DocumentMoniker": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\Thehien\\XuLyChinh.cs",
+              "RelativeDocumentMoniker": "Ludo_game_v2\\Thehien\\XuLyChinh.cs",
+              "ToolTip": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\Thehien\\XuLyChinh.cs",
+              "RelativeToolTip": "Ludo_game_v2\\Thehien\\XuLyChinh.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAD4vykAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:59:18.63Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BanCo.cs",
+              "DocumentMoniker": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\XuLy\\BanCo.cs",
+              "RelativeDocumentMoniker": "Ludo_game_v2\\XuLy\\BanCo.cs",
+              "ToolTip": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\XuLy\\BanCo.cs",
+              "RelativeToolTip": "Ludo_game_v2\\XuLy\\BanCo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwB0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:02:56.451Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanCo.cs",
+              "DocumentMoniker": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\XuLy\\QuanCo.cs",
+              "RelativeDocumentMoniker": "Ludo_game_v2\\XuLy\\QuanCo.cs",
+              "ToolTip": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\XuLy\\QuanCo.cs",
+              "RelativeToolTip": "Ludo_game_v2\\XuLy\\QuanCo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:03:10.051Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DuLieuQuanCo.cs",
+              "DocumentMoniker": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\DuLieu\\DuLieuQuanCo.cs",
+              "RelativeDocumentMoniker": "Ludo_game_v2\\DuLieu\\DuLieuQuanCo.cs",
+              "ToolTip": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\DuLieu\\DuLieuQuanCo.cs",
+              "RelativeToolTip": "Ludo_game_v2\\DuLieu\\DuLieuQuanCo.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:01:08.497Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TheHienQuanCo.cs",
+              "DocumentMoniker": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\Thehien\\TheHienQuanCo.cs",
+              "RelativeDocumentMoniker": "Ludo_game_v2\\Thehien\\TheHienQuanCo.cs",
+              "ToolTip": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\Thehien\\TheHienQuanCo.cs",
+              "RelativeToolTip": "Ludo_game_v2\\Thehien\\TheHienQuanCo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAWwCIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:39:36.647Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TheHienQuanCo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\Thehien\\TheHienQuanCo.cs",
+              "RelativeDocumentMoniker": "Ludo_game_v2\\Thehien\\TheHienQuanCo.cs",
+              "ToolTip": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\Thehien\\TheHienQuanCo.cs [Design]",
+              "RelativeToolTip": "Ludo_game_v2\\Thehien\\TheHienQuanCo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:41:55.29Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TuyChon.cs",
+              "DocumentMoniker": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\Thehien\\TuyChon.cs",
+              "RelativeDocumentMoniker": "Ludo_game_v2\\Thehien\\TuyChon.cs",
+              "ToolTip": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\Thehien\\TuyChon.cs",
+              "RelativeToolTip": "Ludo_game_v2\\Thehien\\TuyChon.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vxMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:04:09.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XuLyChinh.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\Thehien\\XuLyChinh.Designer.cs",
+              "RelativeDocumentMoniker": "Ludo_game_v2\\Thehien\\XuLyChinh.Designer.cs",
+              "ToolTip": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\Thehien\\XuLyChinh.Designer.cs",
+              "RelativeToolTip": "Ludo_game_v2\\Thehien\\XuLyChinh.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:21:17.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "XiNgau.cs",
+              "DocumentMoniker": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\XuLy\\XiNgau.cs",
+              "RelativeDocumentMoniker": "Ludo_game_v2\\XuLy\\XiNgau.cs",
+              "ToolTip": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\XuLy\\XiNgau.cs",
+              "RelativeToolTip": "Ludo_game_v2\\XuLy\\XiNgau.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:03:16.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TheHienXiNgau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\Thehien\\TheHienXiNgau.cs",
+              "RelativeDocumentMoniker": "Ludo_game_v2\\Thehien\\TheHienXiNgau.cs",
+              "ToolTip": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\Thehien\\TheHienXiNgau.cs [Design]",
+              "RelativeToolTip": "Ludo_game_v2\\Thehien\\TheHienXiNgau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:02:37.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DuLieuUser.cs",
+              "DocumentMoniker": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\DuLieu\\DuLieuUser.cs",
+              "RelativeDocumentMoniker": "Ludo_game_v2\\DuLieu\\DuLieuUser.cs",
+              "ToolTip": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\DuLieu\\DuLieuUser.cs",
+              "RelativeToolTip": "Ludo_game_v2\\DuLieu\\DuLieuUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:01:33.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DuLieuTuyChon.cs",
+              "DocumentMoniker": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\DuLieu\\DuLieuTuyChon.cs",
+              "RelativeDocumentMoniker": "Ludo_game_v2\\DuLieu\\DuLieuTuyChon.cs",
+              "ToolTip": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\DuLieu\\DuLieuTuyChon.cs",
+              "RelativeToolTip": "Ludo_game_v2\\DuLieu\\DuLieuTuyChon.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:01:20.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DuLieuBanCo.cs",
+              "DocumentMoniker": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\DuLieu\\DuLieuBanCo.cs",
+              "RelativeDocumentMoniker": "Ludo_game_v2\\DuLieu\\DuLieuBanCo.cs",
+              "ToolTip": "C:\\Users\\HOANG PHUC\\source\\repos\\Ludo_game_v2\\Ludo_game_v2\\DuLieu\\DuLieuBanCo.cs",
+              "RelativeToolTip": "Ludo_game_v2\\DuLieu\\DuLieuBanCo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:00:54.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
